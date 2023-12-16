@@ -1,0 +1,38 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div
+{
+    text-align: center;
+}
+h1
+{
+    font-size: 80px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin: 50px 0px;
+}
+p
+{
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}
+button
+{
+    background-color: blue;
+    border: 2px solid black;
+    color: white;
+    width: 250px;
+    height: 80px;
+    margin: 50px;
+    transition: all ;
+}
+button:hover
+{
+    background-color: green;
+}
